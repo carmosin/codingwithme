@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "I made this."
+echo "We made this."
 exit 0
